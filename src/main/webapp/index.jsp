@@ -7,10 +7,10 @@
     Welcome to DevOps Master Session
 </h1>
 <h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
-    Changes are happening in the Github by Suneel
+    Changes are happening in the Github by Nilesh Rathod
 </h1>
 <h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
-    Changes are happening in the Github by Suneel
+    Changes are happening in the Github by Nilesh Rathod
 </h1>
 <h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
     Tomcat Setup Done Successfully!!
